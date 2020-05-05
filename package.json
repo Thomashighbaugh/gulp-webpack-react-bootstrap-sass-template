@@ -7,7 +7,7 @@
     "url": "https://github.com/glebm/gulp-webpack-react-bootstrap-sass-template.git"
   },
   "devDependencies": {
-    "autoprefixer-loader": "^2.0.0",
+    "autoprefixer-loader": "^3.2.0",
     "bower": "1.4.1",
     "coffee-loader": "~0.7.2",
     "coffee-script": "*",
