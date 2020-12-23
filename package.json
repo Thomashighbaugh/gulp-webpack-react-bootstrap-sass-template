@@ -9,7 +9,7 @@
   "devDependencies": {
     "autoprefixer-loader": "^2.0.0",
     "bower": "1.4.1",
-    "coffee-loader": "~0.7.2",
+    "coffee-loader": "~2.0.0",
     "coffee-script": "*",
     "css-loader": "^0.15.5",
     "del": "^1.2.0",
