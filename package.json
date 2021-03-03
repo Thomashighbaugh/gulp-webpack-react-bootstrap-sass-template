@@ -11,7 +11,7 @@
     "bower": "1.4.1",
     "coffee-loader": "~0.7.2",
     "coffee-script": "*",
-    "css-loader": "^0.15.5",
+    "css-loader": "^5.1.1",
     "del": "^1.2.0",
     "extract-text-webpack-plugin": "~0.8.2",
     "file-loader": "^0.8.4",
